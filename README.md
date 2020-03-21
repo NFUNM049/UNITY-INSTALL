@@ -13,7 +13,7 @@
 * 安装**UnityStandardAssetsSetup-5.6.2f1**资源包，直接安装即可。
 * 安装完成，打开软件，根据指示进行Unity3d账号注册以及登录。登录账号后如下图所示，即可进行下一步操作。
 
-<img src="F:\E学习资料\大三下\vr\0.1.png" alt="0.1" style="zoom: 50%;" />
+<img src="F:\E学习资料\大三下\vr\0.1.png" alt="0.1"  />
 
 
 
@@ -26,11 +26,11 @@
   * 编辑->变量名"Path"，在原变量值的最后面加上 ***\*%JAVA_HOME%\bin\****之后点击确定。
 * 检验是否安装成功，**打开我的电脑** -> **c盘** -> **输入cmd **-> **在cmd中输入Java -version**，如出现版本号及图片内容，则表示安装成功。
 
-<img src="F:\E学习资料\大三下\vr\0.4.png" alt="0.4" style="zoom: 67%;" />
+<img src="F:\E学习资料\大三下\vr\0.4.png" alt="0.4"  />
 
-<img src="F:\E学习资料\大三下\vr\0.3.png" alt="0.3" style="zoom: 50%;" />
+<img src="F:\E学习资料\大三下\vr\0.3.png" alt="0.3"  />
 
-<img src="F:\E学习资料\大三下\vr\0.2.png" alt="0.2" style="zoom: 50%;" />
+<img src="F:\E学习资料\大三下\vr\0.2.png" alt="0.2"  />
 
 
 
@@ -41,26 +41,26 @@
 * 解压sdk文件夹，点击SDK MANAGER进行安装，这里也需要记住安装路径，怕忘记的同学可以更改至熟悉的安装路径。
 * 弹出安装页面后，等待资源更新完成，点击install 17 packages进行下载，选择Android SDK License -> accept license -> install，这里需要花费大概40分钟左右的时间安装，请大家耐心等待。
 
-<img src="F:\E学习资料\大三下\vr\0.5.png" alt="0.5" style="zoom:67%;" />
+<img src="F:\E学习资料\大三下\vr\0.5.png" alt="0.5"  />
 
-<img src="F:\E学习资料\大三下\vr\0.6.png" alt="0.6" style="zoom:67%;" />
+<img src="F:\E学习资料\大三下\vr\0.6.png" alt="0.6"  />
 
 
 
 > **配置开发环境**：JDK和SDK都安装完成后，到Unity3d的edit选项卡下方的perference进行设置，点击Browse，找到刚刚安装JDK/SDK的文件夹所在的路径即可。
 
-<img src="F:\E学习资料\大三下\vr\1.png" alt="1" style="zoom:50%;" />
+<img src="F:\E学习资料\大三下\vr\1.png" alt="1"  />
 
-<img src="F:\E学习资料\大三下\vr\2.png" alt="2" style="zoom:50%;" />
+<img src="F:\E学习资料\大三下\vr\2.png" alt="2"  />
 
 ## 4.安装Andriod开发环境，目的是生成手机的apk文件。
 
 * 找到**UnitySetup-Android-Support-for-Editor-5.6.2f1**这个文件，点击安装即可。
 * 安装完成后，找到file下的build setting，点击andriod，如图所展示则安装成功！
 
-<img src="F:\E学习资料\大三下\vr\3.png" alt="3" style="zoom:50%;" />
+<img src="F:\E学习资料\大三下\vr\3.png" alt="3"  />
 
-<img src="F:\E学习资料\大三下\vr\4.png" alt="4"  />
+<img src="F:\E学习资料\大三下\vr\4.png" alt="4" style="zoom:;" />
 
 
 
